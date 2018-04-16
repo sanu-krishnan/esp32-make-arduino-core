@@ -1,6 +1,6 @@
 # My makefile
 
-SKETCH = $(ESP_ROOT)/libraries/Ticker/examples/Blinker/Blinker.ino
+SKETCH = ebot_main/ebot_main.cpp
 
 ESP_ROOT= esp32
 
